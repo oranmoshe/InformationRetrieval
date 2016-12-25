@@ -1,0 +1,3 @@
+0,/Users/oranmoshe/Documents/workspace/InformationRetrieval/system_storage/Arnold.txt,show
+1,/Users/oranmoshe/Documents/workspace/InformationRetrieval/system_storage/Gandhi.txt,show
+2,/Users/oranmoshe/Documents/workspace/InformationRetrieval/system_storage/Michael.txt,show
